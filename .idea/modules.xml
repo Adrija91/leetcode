@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" filepath="$PROJECT_DIR$/BuySellStocks/BuySellStocks.iml" />
       <module fileurl="file://$PROJECT_DIR$/NextPermutation/NextPermutation.iml" filepath="$PROJECT_DIR$/NextPermutation/NextPermutation.iml" />
       <module fileurl="file://$PROJECT_DIR$/SortColors/SortColors.iml" filepath="$PROJECT_DIR$/SortColors/SortColors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dijsktra/dijsktra.iml" filepath="$PROJECT_DIR$/dijsktra/dijsktra.iml" />
       <module fileurl="file://$PROJECT_DIR$/javaProject.iml" filepath="$PROJECT_DIR$/javaProject.iml" />
       <module fileurl="file://$PROJECT_DIR$/longestSubStr/longestSubStr.iml" filepath="$PROJECT_DIR$/longestSubStr/longestSubStr.iml" />
       <module fileurl="file://$PROJECT_DIR$/pallindrome/pallindrome.iml" filepath="$PROJECT_DIR$/pallindrome/pallindrome.iml" />
